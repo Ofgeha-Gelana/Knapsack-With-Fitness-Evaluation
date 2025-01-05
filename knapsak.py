@@ -1,10 +1,11 @@
+
 import streamlit as st
 import pandas as pd
 import random
 import time
 
 # Problem Statement
-st.title("Knapsack Optimization Problem")
+st.title("🧳 Knapsack Problem - Trip Packing Optimization")
 st.markdown("""
 ### Problem Statement:
 You are preparing for a trip and have a set of items, each with a weight and a value. The goal is to select the most valuable combination of items that fit into your bag without exceeding its weight capacity.
