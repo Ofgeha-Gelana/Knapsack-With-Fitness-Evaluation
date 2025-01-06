@@ -61,6 +61,7 @@ You can interact with the live demo of the Knapsack problem using the Estimation
    git clone https://github.com/Ofgeha-Gelana/Knapsack-With-Fitness-Evaluation.git
    cd Knapsack-With-Fitness-Evaluation
 
-   ```bash
    cd Scripts
    Streamlit run app.py
+
+
