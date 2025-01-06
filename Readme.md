@@ -65,3 +65,8 @@ You can interact with the live demo of the Knapsack problem using the Estimation
    Streamlit run app.py
 
 
+## Task 2
+
+Click the link below to see:
+
+[**Task 2 - Understanding Univariate and Multivariate EDAs**](https://medium.com/@ofgehagelana2019/understanding-univariate-and-multivariate-edas-key-differences-and-applications-4335aee92d42)
