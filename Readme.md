@@ -23,7 +23,7 @@ Imagine you're planning a trip and need to pack items into a bag with limited ca
 2. **Population Size:** Number of solutions in each generation.
 3. **Top Individuals:** Number of top-performing solutions used to learn the probability distribution.
 4. **Generations:** Number of iterations for the algorithm to evolve.
-5. **Toggle Early Termination:** Enable or disable stopping early when the best solution is found.
+5. **Toggle Early Termination:** disable stopping early when the best solution is found.
 
 ---
 
@@ -45,7 +45,9 @@ You can interact with the live demo of the Knapsack problem using the Estimation
 [**Interactive Demo - Knapsack EDA**](https://knapsack-with-fitness-evaluation.streamlit.app/)
 
 ---
+[Screenshot of Demo - Knapsack EDA](https://raw.githubusercontent.com/Ofgeha-Gelana/Knapsack-With-Fitness-Evaluation/refs/heads/main/app/Screenshot%202025-01-06%20045001.png)
 
+---
 ## How to Run the Project
 
 ### 📦 Prerequisites
