@@ -45,7 +45,7 @@ You can interact with the live demo of the Knapsack problem using the Estimation
 [**Interactive Demo - Knapsack EDA**](https://knapsack-with-fitness-evaluation.streamlit.app/)
 
 ---
-[Screenshot of Demo - Knapsack EDA](https://raw.githubusercontent.com/Ofgeha-Gelana/Knapsack-With-Fitness-Evaluation/refs/heads/main/app/Screenshot%202025-01-06%20045001.png)
+![Screenshot of Demo - Knapsack EDA](https://raw.githubusercontent.com/Ofgeha-Gelana/Knapsack-With-Fitness-Evaluation/refs/heads/main/app/Screenshot%202025-01-06%20045001.png)
 
 ---
 ## How to Run the Project
