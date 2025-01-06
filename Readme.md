@@ -53,10 +53,14 @@ You can interact with the live demo of the Knapsack problem using the Estimation
 ### 📦 Prerequisites
 - Python 3.8 or later
 - Streamlit library
-- Install other dependencies listed in `requirements.txt` (if available)
+- Install other dependencies listed in `requirements.txt` 
 
 ### 🚀 Steps to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/knapsack-eda.git
-   cd knapsack-eda
+   git clone https://github.com/Ofgeha-Gelana/Knapsack-With-Fitness-Evaluation.git
+   cd Knapsack-With-Fitness-Evaluation
+
+   ```bash
+   cd Scripts
+   Streamlit run app.py
